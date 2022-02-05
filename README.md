@@ -12,7 +12,7 @@
 * run tsc and the name of the file, and it will compile it to javaScript.
 
 * run npm init
-* npm install --save-dev lite-server for a live server
+* npm install --save-dev lite-server :  for a live server
 
 
 
